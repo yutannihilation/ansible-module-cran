@@ -36,10 +36,10 @@ galaxy_info:
   #  - 5
   #  - 6
   #  - 7
-  #- name: GenericUNIX
-  #  versions:
+  - name: GenericUNIX
+    versions:
   #  - all
-  #  - any
+    - any
   #- name: Solaris
   #  versions:
   #  - all
@@ -137,10 +137,10 @@ galaxy_info:
   #  - 11SP1
   #  - 11SP2
   #  - 11SP3
-  #- name: GenericLinux
-  #  versions:
+  - name: GenericLinux
+    versions:
   #  - all
-  #  - any
+    - any
   #- name: NXOS
   #  versions:
   #  - all
