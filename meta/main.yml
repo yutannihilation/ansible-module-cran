@@ -3,11 +3,10 @@ galaxy_info:
   description: A role to use the module installing/uninstalling R packages
   license: MIT
   min_ansible_version: 1.2
-
+  platforms:
   - name: GenericUNIX
     versions:
     - any
-
   - name: GenericLinux
     versions:
     - any
