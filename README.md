@@ -12,7 +12,13 @@ Requirements
 Installation
 ------------
 
-   ansible-galaxy install yutannihilation.cran
+Install from [Ansible Garaxy](https://galaxy.ansible.com/):
+
+    ansible-galaxy install yutannihilation.cran
+
+Or, use this directly:
+
+    ansible-playbook --module-path=/path/to/ansible-module-cran/library your-playbook.yml
 
 
 Example Playbook
