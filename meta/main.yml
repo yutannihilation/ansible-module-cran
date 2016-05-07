@@ -10,3 +10,7 @@ galaxy_info:
   - name: GenericLinux
     versions:
     - any
+  galaxy_tags:
+    - R
+
+dependencies: []
